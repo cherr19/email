@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="449ad7a8-93e1-458c-b790-3505956ec881" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.babel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/archive/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/template/_template.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/unnamed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/raw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/index-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/archive/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/drip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/marketing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/newsletter-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/newsletter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sidebar-hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/partials/.gitkeep" afterDir="false" />
-    </list>
+    <list default="true" id="449ad7a8-93e1-458c-b790-3505956ec881" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,12 +275,12 @@
       <workItem from="1538406254171" duration="302000" />
       <workItem from="1538407679921" duration="994000" />
       <workItem from="1538409462329" duration="186000" />
-      <workItem from="1538431795730" duration="237000" />
+      <workItem from="1538431795730" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17249000" />
+    <option name="totallyTimeSpent" value="17549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
